@@ -1,0 +1,30 @@
+list2=['muzaffar','musaddiq']
+
+#delete pop
+
+'''list2.pop(5)
+print(list2)
+
+
+#extend
+
+list3=['yakubbaig', 'rukhsana']
+print(list3)list2.extend(list3)
+#print(list2)
+
+#copy
+
+list3=list2[:]
+print(list3)
+
+#sort
+
+list2.sort(reverse=True)
+print(list2)
+
+a=[word for word in list2 if word.startswith('m')]
+print(a)'''
+
+n1,n2=list2
+print(n1)
+print(n2)
